@@ -24,7 +24,7 @@ These apps are part of the final projects I've developed for my Masters in Compu
 - **Uno Game Web App**: CSC 867 Internet Application Design and Development
 - **Priority Hub Mobile**: CSC 780 Application Development for Mobile Devices
 
-### Contacts
+### :envelope: Contact me
 Here you can find me in the following sites:
 - [My LinkedIn](https://www.linkedin.com/in/luismiguelaguilar)
 - [My GitHub](https://github.com/luisaguilar159)
