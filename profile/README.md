@@ -1,7 +1,7 @@
 ## Hi there 👋 from LMAR5
 
 ### 👨🏽‍💻 Introduction
-This is an organization created by Luis Aguilar to host some recent development projects I've been working on.
+This is an organization created by [Luis Aguilar](https://github.com/luisaguilar159) to host some recent development projects I've been working on.
 
 ### :file_folder: Projects
 Here you'll find interesting projects like some applications:
@@ -23,6 +23,13 @@ These apps are part of the final projects I've developed for my Masters in Compu
 - **Priority Hub**: CSC 848 Software Engineering
 - **Uno Game Web App**: CSC 867 Internet Application Design and Development
 - **Priority Hub Mobile**: CSC 780 Application Development for Mobile Devices
+
+### Contacts
+Here you can find me in the following sites:
+- [My LinkedIn](https://www.linkedin.com/in/luismiguelaguilar)
+- [My GitHub](https://github.com/luisaguilar159)
+
+
 <!--
 
 **Here are some ideas to get you started:**
