@@ -1,23 +1,23 @@
 ## Hi there 👋 from LMAR5
 
-### Introduction
+### 👨🏽‍💻 Introduction
 This is an organization created by Luis Aguilar to host some recent development projects I've been working on.
 
-### Projects
+### :file_folder: Projects
 Here you'll find interesting projects like some applications:
-- **Priority Hub**
+- :computer: **Priority Hub**
   - SPA web application
   - Main technologies: Bootstrap, React, JavaScript, NodeJS, Express, MySQL, AWS
   - Libraries: Recharts, React Bootstrap, SweetAlert2
-- **Uno Game Web App**
+- :computer: **Uno Game Web App**
   - Server-side rendering web application
   - Main technologies: NodeJS, Express, Tailwind CSS, Socket IO, EJS, Postgres
   - Libraries: bcrypt, Postgres migrations
-- **Priority Hub Mobile**
+- :iphone: **Priority Hub Mobile**
   - Swift (iOS) mobile application
   - Main technologies: Swift 5, CoreData, SwiftCharts
 
-### Credits
+### :mortar_board: Credits
 These apps are part of the final projects I've developed for my Masters in Computer Science at San Francisco State University (SFSU).
 
 - **Priority Hub**: CSC 848 Software Engineering
